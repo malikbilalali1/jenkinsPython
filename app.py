@@ -1,6 +1,6 @@
 #print("Hello World")
 
-data=["Mango","Apple","Peach","Watermelon"]
+data=["Mango","Apple","Peach","Watermelon","Banana","Guava"]
 
 def main():
     print("Main Hello World")
