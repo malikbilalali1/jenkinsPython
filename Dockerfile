@@ -1,6 +1,6 @@
 FROM python:3.8
 
-LABEL maintainer="Muhammad Riaz"
+LABEL maintainer="MALIK BILAL ALI"
 
 COPY . /app
 
