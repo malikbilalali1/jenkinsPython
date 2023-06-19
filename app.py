@@ -1,9 +1,9 @@
 #print("Hello World")
 
-data=["Mango","Apple","Peach","Watermelon","Banana","Kivi","Guava"]
+data=["Honda","Corolla","Suzuki","mercedies","bentle","audi"]
 
 def main():
-    print("Main Hello World")
+    print("WELCOME TO PYTHON PROJECT")
     for fruit in data:
         print(fruit)
 
